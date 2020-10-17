@@ -8,3 +8,4 @@
  * Configurable with a single YAML file
  * Can connect to multiple chat services simultaneously
  * No coding necessary if using the official modules
+ * One can access the opsdroid via git-bash too.
